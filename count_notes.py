@@ -34,5 +34,3 @@ print(change)
 for i in change:
   print(i, ":", change.count(i))
   change.remove(i)
-
-print(change)
